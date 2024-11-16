@@ -7,7 +7,6 @@ This project demonstrates an example application built with **Spring Boot**, **A
 1. [Features](#features)
 2. [Prerequisites](#prerequisites)
 3. [Steps](#steps)
-4. [License](#license)
 
 
 ## Features
