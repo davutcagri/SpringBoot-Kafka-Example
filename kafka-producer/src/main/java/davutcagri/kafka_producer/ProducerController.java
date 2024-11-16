@@ -12,8 +12,8 @@ public class ProducerController {
     }
 
     @PostMapping("/send")
-    public String sendMessage(@RequestParam String message) {
-        producerService.sendMessage("test-topic", message);
+    public String sendMessage(@RequestParam String topic, @RequestParam String message) {
+        producerService.sendMessage(topic, message);
         return "Message sent";
     }
 }
