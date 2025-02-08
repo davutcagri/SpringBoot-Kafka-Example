@@ -1,4 +1,4 @@
-# 🚀 Spring Boot Kafka Docker Example
+# 🚀 Spring Boot Kafka Example
 
 This project demonstrates an example application built with **Spring Boot**, **Apache Kafka**, and **Docker**. It showcases how to integrate Kafka for messaging within a Spring Boot application and containerize the system using Docker.
 
